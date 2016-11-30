@@ -56,6 +56,10 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 #### Main
 * [corda](https://www.r3cev.com/blog/2016/11/25/countdown-to-corda-open-source) `C++` (corda) 
+* [fabric](https://github.com/hyperledger/fabric) `Go` (fabric) 
+* [sawtooth](https://github.com/hyperledger/sawtooth-core) `python` (sawtooth) 
+
+#### Original Bitcoin
 * [bitcoin](https://github.com/bitcoin/bitcoin) `C++` (Satoshi) 
 * [bitcoinj: Java implementation of a Bitcoin client-only node](https://code.google.com/p/bitcoinj/) `Java` (bitcoinj)
 * [bitcoin-qt: Qt GUI for C++ Bitcoin client](https://github.com/laanwj/bitcoin-qt) `C++` (laanwj)
@@ -70,8 +74,9 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [bitcoin-abe: Abe: block browser for Bitcoin and similar currencies](https://github.com/jtobey/bitcoin-abe) `Python` (jtobey)
 * [insight: A bitcoin blockchain API for web wallets](https://github.com/bitpay/insight) `JavaScript` (bitpay)
 * [node-bitcoin-explorer: A Block Explorer clone built using node-bitcoin-p2p](https://github.com/bitcoinjs/node-bitcoin-explorer) `JavaScript` (bitcoinjs)
-* [btcplex: BTCplex is an open source Bitcoin block chain browser written in Go, it allows you to search and navigate the block chain.](https://github.com/tsileo/btcplex) `Go` (tsileo)
+* [BTCplex](https://github.com/tsileo/btcplex) `Go` (tsileo)
 * [blockparser: Fast, quick and dirty bitcoin blockchain parser](https://github.com/znort987/blockparser) `C++` (znort987)
+* [blockchain-explorer](https://github.com/hyperledger/blockchain-explorer) `JavaScript` (hyperledger-explorer)
 
 #### Related Protocols
 * [bitid: Bitcoin Authentication Open Protocol](https://github.com/bitid/bitid) (Larch)
