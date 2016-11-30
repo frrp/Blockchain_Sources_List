@@ -1,7 +1,7 @@
 ## Programming Blockchain Reading List and Projects
 
-* The goal of this document is to provide a reading list for learning to program Blockchain systems
-* It is not meant to be comprehensive, just the most useful sources
+* The goal of this document is to provide a reading list for learning to program Blockchain systems as well as the crucial code
+* It is not meant to be comprehensive, it lists only the most useful sources
 
 The document is split into two major sections: [Content](#content) and [Code](#code)
 
@@ -25,13 +25,11 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [BIP32: Hierarchical Deterministic (HD) Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) (Wuille)
 * [BIP32 Implementation: Money Tree HD Wallet](https://github.com/BitVault/money-tree) (BitVault)
 * [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
-* [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses)
 * [Transactions Reference](https://en.bitcoin.it/wiki/Transactions)
 * [Script Reference](https://en.bitcoin.it/wiki/Script)
 * [Raw Transactions API](https://en.bitcoin.it/wiki/Raw_Transactions)
 * [Colored Coins Protocol Specification](https://github.com/Flavien/colored-coins-protocol/blob/master/specification.mediawiki) (Flavien)
 * [The Mastercoin Protocol Specification](https://github.com/mastercoin-MSC/spec) (Gross)
-* [Counterparty: Financial Instruments (Announcement)](https://bitcointalk.org/index.php?topic=395761.0)
 
 <!---
 #### Videos
@@ -57,9 +55,9 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 ### <a name="code"></a>Code
 
 #### Main
-* [corda](https://www.r3cev.com/blog/2016/11/25/countdown-to-corda-open-source) `C++` (corda) 
-* [fabric](https://github.com/hyperledger/fabric) `Go` (fabric) 
-* [sawtooth](https://github.com/hyperledger/sawtooth-core) `python` (sawtooth)
+* [R3 Corda](https://www.r3cev.com/blog/2016/11/25/countdown-to-corda-open-source) `Java` (corda) 
+* [Hyperledger Fabric](https://github.com/hyperledger/fabric) `Go` (fabric) 
+* [Sawtooth Lake Distributed ledger](https://github.com/hyperledger/sawtooth-core) `python` (sawtooth)
 * [BigchainDB](https://github.com/bigchaindb/bigchaindb) `python` (BigchainDB)
 
 #### Original Bitcoin
@@ -69,13 +67,13 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [btcd: alternative full node bitcoin implementation written in Go](https://github.com/conformal/btcd) `Go` (conformal)
 
 #### Tools
-* [bitcointools: Python-based tools for the Bitcoin cryptocurrency system](https://github.com/gavinandresen/bitcointools) `Python` (gavinandresen)
-* [pycoin: Python-based Bitcoin utility library.](https://github.com/richardkiss/pycoin) `Python` (richardkiss)
+* [bitcointools: python-based tools for the Bitcoin cryptocurrency system](https://github.com/gavinandresen/bitcointools) `python` (gavinandresen)
+* [pycoin: python-based Bitcoin utility library.](https://github.com/richardkiss/pycoin) `python` (richardkiss)
 * [bitcoin-testnet-box: Create a private, difficulty 1 bitcoin testnet](https://github.com/freewil/bitcoin-testnet-Box) `Shell` (freewil)
-* [transactions: Bitcoin for humans](https://github.com/ascribe/transactions) `Python` (ascribe-transactions)
+* [transactions: Bitcoin for humans](https://github.com/ascribe/transactions) `python` (ascribe-transactions)
 
 #### Block Exploration
-* [bitcoin-abe: Abe: block browser for Bitcoin and similar currencies](https://github.com/jtobey/bitcoin-abe) `Python` (jtobey)
+* [bitcoin-abe: Abe: block browser for Bitcoin and similar currencies](https://github.com/jtobey/bitcoin-abe) `python` (jtobey)
 * [insight: A bitcoin blockchain API for web wallets](https://github.com/bitpay/insight) `JavaScript` (bitpay)
 * [node-bitcoin-explorer: A Block Explorer clone built using node-bitcoin-p2p](https://github.com/bitcoinjs/node-bitcoin-explorer) `JavaScript` (bitcoinjs)
 * [BTCplex](https://github.com/tsileo/btcplex) `Go` (tsileo)
