@@ -33,6 +33,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 #### Analytics
 * [Numisight](http://numisight.com/)
+* [Bitcoinity](http://data.bitcoinity.org)
 
 <!---
 -->
@@ -78,4 +79,5 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [ga-bitbot: Genetic algorithm trade system for bitcoin](https://code.google.com/p/ga-bitbot/) `python` 
 * [Algo execution engine](https://github.com/joequant/algobroker) `python` (joequant)
 * [Python Algorithmic Trading Library](https://github.com/gbeced/pyalgotrade) `python` (gbeced)
+* [BitMex market maker](https://github.com/BitMEX/sample-market-maker) `python` (BitMEX)
 
