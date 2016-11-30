@@ -11,8 +11,10 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 ### <a name="content"></a>Content
 
-#### Posts
-* [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1D_gi_7Sf9sOyAHG25cMpOO4xtLq3iJUtjRwcZXFLv1E/edit) (Kofler)
+#### Infrastructure
+* [BigchainDB](https://www.bigchaindb.com/) (BigchainDB)
+* [R3](http://www.r3cev.com/) (R3)
+* [IPFS](https://ipfs.io/) (IPFS)
 
 #### Papers
 * [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
@@ -57,7 +59,8 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 #### Main
 * [corda](https://www.r3cev.com/blog/2016/11/25/countdown-to-corda-open-source) `C++` (corda) 
 * [fabric](https://github.com/hyperledger/fabric) `Go` (fabric) 
-* [sawtooth](https://github.com/hyperledger/sawtooth-core) `python` (sawtooth) 
+* [sawtooth](https://github.com/hyperledger/sawtooth-core) `python` (sawtooth)
+* [BigchainDB](https://github.com/bigchaindb/bigchaindb) `python` (BigchainDB)
 
 #### Original Bitcoin
 * [bitcoin](https://github.com/bitcoin/bitcoin) `C++` (Satoshi) 
@@ -69,6 +72,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [bitcointools: Python-based tools for the Bitcoin cryptocurrency system](https://github.com/gavinandresen/bitcointools) `Python` (gavinandresen)
 * [pycoin: Python-based Bitcoin utility library.](https://github.com/richardkiss/pycoin) `Python` (richardkiss)
 * [bitcoin-testnet-box: Create a private, difficulty 1 bitcoin testnet](https://github.com/freewil/bitcoin-testnet-Box) `Shell` (freewil)
+* [transactions: Bitcoin for humans](https://github.com/ascribe/transactions) `Python` (ascribe-transactions)
 
 #### Block Exploration
 * [bitcoin-abe: Abe: block browser for Bitcoin and similar currencies](https://github.com/jtobey/bitcoin-abe) `Python` (jtobey)
