@@ -41,7 +41,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 ### <a name="code"></a>Code
 
 #### Core Infrastructure
-* [R3 Corda](https://www.r3cev.com/blog/2016/11/25/countdown-to-corda-open-source) `Java` (R3) 
+* [R3 Corda](https://github.com/corda/corda) `Kotlin/JVM` (R3) 
 * [Hyperledger Fabric](https://github.com/hyperledger/fabric) `Go` (Hyperledger) 
 * [Sawtooth Lake Distributed ledger](https://github.com/hyperledger/sawtooth-core) `python` (Hyperledger)
 * [BigchainDB](https://github.com/bigchaindb/bigchaindb) `python` (BigchainDB)
