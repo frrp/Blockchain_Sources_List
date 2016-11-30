@@ -12,9 +12,9 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 ### <a name="content"></a>Content
 
 #### Infrastructure
-* [BigchainDB](https://www.bigchaindb.com/) (BigchainDB)
-* [R3](http://www.r3cev.com/) (R3)
-* [IPFS](https://ipfs.io/) (IPFS)
+* [BigchainDB](https://www.bigchaindb.com/)
+* [R3](http://www.r3cev.com/)
+* [IPFS](https://ipfs.io/)
 
 #### Papers
 * [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
@@ -31,15 +31,15 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [Colored Coins Protocol Specification](https://github.com/Flavien/colored-coins-protocol/blob/master/specification.mediawiki) (Flavien)
 * [The Mastercoin Protocol Specification](https://github.com/mastercoin-MSC/spec) (Gross)
 
-#### Analytics & Tools
-* [Numisight](http://numisight.com/) (numisight)
+#### Analytics
+* [Numisight](http://numisight.com/)
 
 <!---
 -->
 
 ### <a name="code"></a>Code
 
-#### Main
+#### Core Infrastructure
 * [R3 Corda](https://www.r3cev.com/blog/2016/11/25/countdown-to-corda-open-source) `Java` (R3) 
 * [Hyperledger Fabric](https://github.com/hyperledger/fabric) `Go` (Hyperledger) 
 * [Sawtooth Lake Distributed ledger](https://github.com/hyperledger/sawtooth-core) `python` (Hyperledger)
@@ -76,5 +76,6 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [ArBit: An automated Bitcoin arbitrage trading program.](https://github.com/goteppo/ArBit) `Go` (goteppo)
 * [cryptrade: Node.js Bitcoin bot for Bitstamp/BTC-E/CEX.IO](https://github.com/pulsecat/cryptrade) `CoffeeScript` (pulsecat)
 * [ga-bitbot: Genetic algorithm trade system for bitcoin](https://code.google.com/p/ga-bitbot/) `python` 
-* [Algo execution engine](https://github.com/joequant/algobroker) `python` 
+* [Algo execution engine](https://github.com/joequant/algobroker) `python` (joequant)
+* [Python Algorithmic Trading Library](https://github.com/gbeced/pyalgotrade) `python` (gbeced)
 
