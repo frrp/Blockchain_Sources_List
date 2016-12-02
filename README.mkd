@@ -11,6 +11,10 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 ### <a name="content"></a>Content
 
+#### Other related lists
+* [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
+* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
+
 #### Infrastructure
 * [BigchainDB](https://www.bigchaindb.com/)
 * [R3](http://www.r3cev.com/)
