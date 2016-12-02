@@ -1,7 +1,8 @@
 ## Programming Blockchain Reading List and Projects
 
-* The goal of this document is to provide a reading list for learning to program Blockchain systems as well as the crucial code
+* The goal of this document is to provide a reading list for learning to program Blockchain (distributed ledger) systems as well as the crucial code sources
 * It is not meant to be comprehensive, it lists only the most useful sources
+* There is a bonus: code/software useful for Bitcoin algorithmic trading
 
 The document is split into two major sections: [Content](#content) and [Code](#code)
 
@@ -10,10 +11,6 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * WIP: send suggestions to [@FrantaPolach](https://twitter.com/FrantaPolach) or [open a GitHub issue](https://github.com/frrp/Blockchain_Sources_List/issues)
 
 ### <a name="content"></a>Content
-
-#### Other related lists
-* [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
-* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 
 #### Infrastructure
 * [BigchainDB](https://www.bigchaindb.com/)
@@ -28,8 +25,6 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [Working with the Payments Protocol](https://code.google.com/p/bitcoinj/wiki/PaymentProtocol) (Andresen)
 * [BIP32: Hierarchical Deterministic (HD) Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) (Wuille)
 * [BIP32 Implementation: Money Tree HD Wallet](https://github.com/BitVault/money-tree) (BitVault)
-* [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
-* [Transactions Reference](https://en.bitcoin.it/wiki/Transactions)
 * [Script Reference](https://en.bitcoin.it/wiki/Script)
 * [Raw Transactions API](https://en.bitcoin.it/wiki/Raw_Transactions)
 * [Colored Coins Protocol Specification](https://github.com/Flavien/colored-coins-protocol/blob/master/specification.mediawiki) (Flavien)
@@ -38,6 +33,10 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 #### Analytics
 * [Numisight](http://numisight.com/)
 * [Bitcoinity](http://data.bitcoinity.org)
+
+#### Other related lists
+* [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
+* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 
 <!---
 -->
@@ -52,7 +51,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [Sidechains: Elements Project](https://github.com/ElementsProject/elements) `C++` (Blockstream)
 * [Scorex](https://github.com/input-output-hk/Scorex) `Scala/JVM` (IOHK)
 
-#### Original Bitcoin
+#### Bitcoin
 * [bitcoin](https://github.com/bitcoin/bitcoin) `C++` (Satoshi) 
 * [bitcoinj: Java implementation of a Bitcoin client-only node](https://code.google.com/p/bitcoinj/) `Java` (bitcoinj)
 * [bitcoin-qt: Qt GUI for C++ Bitcoin client](https://github.com/laanwj/bitcoin-qt) `C++` (laanwj)
