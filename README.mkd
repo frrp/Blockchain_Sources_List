@@ -46,6 +46,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [Sawtooth Lake Distributed ledger](https://github.com/hyperledger/sawtooth-core) `python` (Hyperledger)
 * [BigchainDB](https://github.com/bigchaindb/bigchaindb) `python` (BigchainDB)
 * [Sidechains: Elements Project](https://github.com/ElementsProject/elements) `C++` (Blockstream)
+* [Scorex](https://github.com/input-output-hk/Scorex) `Scala/JVM` (IOHK)
 
 #### Original Bitcoin
 * [bitcoin](https://github.com/bitcoin/bitcoin) `C++` (Satoshi) 
